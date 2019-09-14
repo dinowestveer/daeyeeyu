@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ilieghohp.getrecordbox.com/sitemap.xml
